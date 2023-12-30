@@ -1,0 +1,18 @@
+#joy{
+    background-color: rgba(255, 255, 255, 0.985);
+    height:40px;
+}
+body{
+    background-color: rgba(25, 143, 88, 0.531);
+    
+}
+#vid1{
+    height: 200px;
+    width: auto;
+
+}
+#music1{
+    height: 50px;
+    border: 250px;
+
+}
